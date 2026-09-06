@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Trayan**, an AI Engineer building intelligent systems.
+I'm **Trayan**, an AI Architect building intelligent systems.
 
 I design and build whatever I can imagine with AI - from multi-agent orchestration systems to conversational analytics platforms.
 
