@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Trayan**, a Lead AI Engineer building agentic system architecture.
+I'm **Trayan**, a Lead AI Engineer building AI architecture.
 
 I design and build whatever I can imagine with AI - from multi-agent orchestration systems to conversational analytics platforms.
 
